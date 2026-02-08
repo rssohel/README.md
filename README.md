@@ -1,2 +1,0 @@
-# README.md
-# 💀 Rana.nj Ultimate Stresser  ### 🚀 Fast Install for Termux: ```bash pkg update && pkg upgrade -y && pkg install git python -y && pip install colorama && git clone https://github.com/rssohel/rana-stresser && cd rana-stresser && python rana.py
